@@ -9,7 +9,7 @@ Skills:
 * client/server communication
 * understanding RFC
 
-
+brew install weechat
 
 useful commands to test this project :
 
